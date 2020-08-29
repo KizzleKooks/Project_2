@@ -1,4 +1,4 @@
-Year,AACC Region,Aboriginality,Number assessed,Number in Care
+years,aacc_region,aboriginality,number_assessed,number_in_care
 2015,East Kimberley,Aboriginal,325,144
 2015,East Kimberley,NonAboriginal,4,0
 2015,Goldfields-Esperance,NonAboriginal,193,23
